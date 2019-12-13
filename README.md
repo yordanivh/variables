@@ -51,7 +51,7 @@ In order to get an understanding of how vsriables are used you can check this co
  terraform apply
  ```
 
- * The varibales are defined her:
+ * The variables are defined here:
   ```
   variable "image" {
     type    = string
