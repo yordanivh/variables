@@ -1,2 +1,2 @@
-image="something"
-instance_type="something"
+image = "something"
+instance_type = "something"
