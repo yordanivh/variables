@@ -1,11 +1,11 @@
 variable "image" {
   type    = string
-  default = "ami-0d5d9d301c853a04a"
+  
 }
 
 variable "instance_type" {
   type    = string
-  default = "t2.micro"
+ 
 }
 
 
